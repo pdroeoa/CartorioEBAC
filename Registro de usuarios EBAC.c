@@ -136,6 +136,7 @@ int main() {
                 deletar();
                 break;
             case 0:
+            	printf("Obrigado por utilizar o sistema nosso sistema!");
                 exit(0);  // Sai do programa
             default:
                 printf("\tEssa opcao nao esta disponivel!\n");
